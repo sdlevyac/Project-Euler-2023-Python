@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33801.468
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Project Euler 2023 Python", "Project Euler 2023 Python\Project Euler 2023 Python.pyproj", "{37760774-1E2B-42D2-B43C-4CBE3C13292D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37760774-1E2B-42D2-B43C-4CBE3C13292D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37760774-1E2B-42D2-B43C-4CBE3C13292D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {881767ED-0252-4C02-8B0F-EBD5C2829E48}
+	EndGlobalSection
+EndGlobal
